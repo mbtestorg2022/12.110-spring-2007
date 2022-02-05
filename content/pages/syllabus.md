@@ -24,20 +24,135 @@ Calendar
 
 Two 2 hour lectures per week for the first half of the term: 16 lectures.
 
-| LEC # | TOPICS |
-| --- | --- |
-| 1 | Sediment texture |
-| 2 |  {{< br >}}{{< br >}} Sediment texture (cont.) {{< br >}}{{< br >}} Sediment transport {{< br >}}{{< br >}}  |
-| 3 | Sediment transport (cont.) |
-| 4-5 | Siliciclastic rocks |
-| 6-7 | Carbonate sediments and rocks |
-| 8 | Cherts and evaporites |
-| 9 | Diagenesis |
-| 10 | Paleontology |
-| 11-12 | Depositional environments |
-| 13-14 | Stratigraphy |
-| 15 | Sedimentary basins |
-| 16 | Fossil fuels 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Sediment texture
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Sediment texture (cont.)
+
+Sediment transport
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Sediment transport (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4-5
+{{< tdclose >}}
+{{< tdopen >}}
+Siliciclastic rocks
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6-7
+{{< tdclose >}}
+{{< tdopen >}}
+Carbonate sediments and rocks
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Cherts and evaporites
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Diagenesis
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Paleontology
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11-12
+{{< tdclose >}}
+{{< tdopen >}}
+Depositional environments
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13-14
+{{< tdclose >}}
+{{< tdopen >}}
+Stratigraphy
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Sedimentary basins
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Fossil fuels
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 During the eight weeks, at each lecture students are given a list of three or four questions, on which to supply brief written answers, based on lectures and lecture notes, to be due at the time of the following lecture.
 
